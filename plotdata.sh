@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -rf data
 mkdir data
-git clone https://github.com/georgeglessner/MyFlights.git
+git clone https://github.com/Tom-VEX/ADS-B-Flights.git
 cd MyFlights/flights/
 
 # Copy all data to data folder
